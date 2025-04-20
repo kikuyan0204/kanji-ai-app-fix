@@ -1,0 +1,1 @@
+# kanji-ai-app-fix
