@@ -1,0 +1,9 @@
+[theme]
+base = "light"
+
+[server]
+headless = true
+
+[ui]
+hideSidebarNav = false
+pageTitle = "幹事アシストAI"
